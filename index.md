@@ -9,3 +9,7 @@
 int num = 5;
 char c = 'a';
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Go to the last task
+- [ ] Submit the final link
